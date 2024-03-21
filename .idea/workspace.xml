@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S02-L002 Creating DataSeries objects">
-      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S002-L005 Metods DataSeries.ipynb" afterDir="false" />
+    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L005 Methods DataSeries">
+      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S002-L005 Methods DataSeries.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L006 Filtering DataSeries.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section1_DataSeries/S02-L002 Creating DataSeries objects.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L002 Creating DataSeries objects.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jacek010"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jacek010&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
@@ -115,7 +115,9 @@
       <workItem from="1710925648345" duration="2285000" />
       <workItem from="1710962675347" duration="1551000" />
       <workItem from="1711015705651" duration="2415000" />
-      <workItem from="1711018130208" duration="3049000" />
+      <workItem from="1711018130208" duration="3173000" />
+      <workItem from="1711032433244" duration="11000" />
+      <workItem from="1711039786577" duration="1333000" />
     </task>
     <task id="LOCAL-00001" summary="initil commit">
       <option name="closed" value="true" />
@@ -165,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711019792332</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="S002-L005 Methods DataSeries">
+      <option name="closed" value="true" />
+      <created>1711021260876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711021260876</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +196,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initil commit" />
     <MESSAGE value="S02-L002 Creating DataSeries objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="S02-L002 Creating DataSeries objects" />
+    <MESSAGE value="S002-L005 Methods DataSeries" />
+    <option name="LAST_COMMIT_MESSAGE" value="S002-L005 Methods DataSeries" />
   </component>
 </project>
