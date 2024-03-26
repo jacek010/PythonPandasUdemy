@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L014 Reindex and intersection">
-      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L015 Indexing during import from CSV file.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L015 Custom indexing during import">
+      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L016 More DataSeries functions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,7 @@
       <workItem from="1711104141859" duration="27000" />
       <workItem from="1711462749060" duration="20000" />
       <workItem from="1711462773929" duration="4936000" />
-      <workItem from="1711482797531" duration="1386000" />
+      <workItem from="1711482797531" duration="2280000" />
     </task>
     <task id="LOCAL-00001" summary="initil commit">
       <option name="closed" value="true" />
@@ -263,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711483633349</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="S002-L015 Custom indexing during import">
+      <option name="closed" value="true" />
+      <created>1711484349083</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711484349083</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +299,7 @@
     <MESSAGE value="S002-L010 Sorting DataSeries" />
     <MESSAGE value="S002-L013 Methods for searching" />
     <MESSAGE value="S002-L014 Reindex and intersection" />
-    <option name="LAST_COMMIT_MESSAGE" value="S002-L014 Reindex and intersection" />
+    <MESSAGE value="S002-L015 Custom indexing during import" />
+    <option name="LAST_COMMIT_MESSAGE" value="S002-L015 Custom indexing during import" />
   </component>
 </project>
