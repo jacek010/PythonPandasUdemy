@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L013 Methods for searching">
-      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L014 Reindex and intersection.ipynb" afterDir="false" />
+    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L014 Reindex and intersection">
+      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L015 Indexing during import from CSV file.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +149,7 @@
       <workItem from="1711104141859" duration="27000" />
       <workItem from="1711462749060" duration="20000" />
       <workItem from="1711462773929" duration="4936000" />
-      <workItem from="1711482797531" duration="633000" />
+      <workItem from="1711482797531" duration="1386000" />
     </task>
     <task id="LOCAL-00001" summary="initil commit">
       <option name="closed" value="true" />
@@ -255,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711474173490</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="S002-L014 Reindex and intersection">
+      <option name="closed" value="true" />
+      <created>1711483633349</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711483633349</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +291,7 @@
     <MESSAGE value="S002-L009" />
     <MESSAGE value="S002-L010 Sorting DataSeries" />
     <MESSAGE value="S002-L013 Methods for searching" />
-    <option name="LAST_COMMIT_MESSAGE" value="S002-L013 Methods for searching" />
+    <MESSAGE value="S002-L014 Reindex and intersection" />
+    <option name="LAST_COMMIT_MESSAGE" value="S002-L014 Reindex and intersection" />
   </component>
 </project>
