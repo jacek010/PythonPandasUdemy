@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L008 Reading Series Object">
-      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L009.ipynb" afterDir="false" />
+    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L010 Sorting DataSeries">
+      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L013 Methods searching by index.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +148,7 @@
       <workItem from="1711055340855" duration="2141000" />
       <workItem from="1711104141859" duration="27000" />
       <workItem from="1711462749060" duration="20000" />
-      <workItem from="1711462773929" duration="1672000" />
+      <workItem from="1711462773929" duration="4902000" />
     </task>
     <task id="LOCAL-00001" summary="initil commit">
       <option name="closed" value="true" />
@@ -230,7 +230,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711058145131</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="S002-L009">
+      <option name="closed" value="true" />
+      <created>1711464524244</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711464524245</updated>
+    </task>
+    <task id="LOCAL-00012" summary="S002-L010 Sorting DataSeries">
+      <option name="closed" value="true" />
+      <created>1711465820473</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711465820473</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +271,8 @@
     <MESSAGE value="S002-L005 Filtering DataSeries" />
     <MESSAGE value="S002-L007 Advanced filtering" />
     <MESSAGE value="S002-L008 Reading Series Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="S002-L008 Reading Series Object" />
+    <MESSAGE value="S002-L009" />
+    <MESSAGE value="S002-L010 Sorting DataSeries" />
+    <option name="LAST_COMMIT_MESSAGE" value="S002-L010 Sorting DataSeries" />
   </component>
 </project>
