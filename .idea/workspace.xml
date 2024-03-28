@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="Changed section number">
-      <change afterPath="$PROJECT_DIR$/Section3_DataFrame/S03-L001 Importing file to dataframe.ipynb" afterDir="false" />
+    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S03-L001 Importing file to dataframe">
+      <change afterPath="$PROJECT_DIR$/Section3_DataFrame/S03-L006 Fillna method.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +156,7 @@
       <workItem from="1711482797531" duration="3442000" />
       <workItem from="1711623109691" duration="13000" />
       <workItem from="1711623127224" duration="52000" />
-      <workItem from="1711623187492" duration="3290000" />
+      <workItem from="1711623187492" duration="6357000" />
     </task>
     <task id="LOCAL-00001" summary="initil commit">
       <option name="closed" value="true" />
@@ -310,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711626233568</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="S03-L001 Importing file to dataframe">
+      <option name="closed" value="true" />
+      <created>1711627433587</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711627433587</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,6 +352,7 @@
     <MESSAGE value="S002-L017 Modifyng data series" />
     <MESSAGE value="S002-L018 Map method" />
     <MESSAGE value="Changed section number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed section number" />
+    <MESSAGE value="S03-L001 Importing file to dataframe" />
+    <option name="LAST_COMMIT_MESSAGE" value="S03-L001 Importing file to dataframe" />
   </component>
 </project>
