@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L016 More Dataseries functions">
-      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L017 Modifying DataSeries.ipynb" afterDir="false" />
+    <list default="true" id="8b75d440-51e5-4b9b-b607-aeabca94352e" name="Changes" comment="S002-L017 Modifyng data series">
+      <change afterPath="$PROJECT_DIR$/Section1_DataSeries/S02-L018 Map method.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +152,7 @@
       <workItem from="1711482797531" duration="3442000" />
       <workItem from="1711623109691" duration="13000" />
       <workItem from="1711623127224" duration="52000" />
-      <workItem from="1711623187492" duration="1590000" />
+      <workItem from="1711623187492" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="initil commit">
       <option name="closed" value="true" />
@@ -282,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711486656286</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="S002-L017 Modifyng data series">
+      <option name="closed" value="true" />
+      <created>1711625466313</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711625466313</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +321,7 @@
     <MESSAGE value="S002-L014 Reindex and intersection" />
     <MESSAGE value="S002-L015 Custom indexing during import" />
     <MESSAGE value="S002-L016 More Dataseries functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="S002-L016 More Dataseries functions" />
+    <MESSAGE value="S002-L017 Modifyng data series" />
+    <option name="LAST_COMMIT_MESSAGE" value="S002-L017 Modifyng data series" />
   </component>
 </project>
